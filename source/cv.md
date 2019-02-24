@@ -1,93 +1,68 @@
 ---
-title: 'Your Name'
-website: http://yourwebsite.com
-street: Street address
-city: City
-postcode: Postal code
-phone: +12 (0)3456 7891011
-email: your.email@address.com
-date: 22 November 2014
+title: 'James E Teitsworth'
+website: https://www.jamesteitsworth.com
+phone: 319-572-7180 
+email: james@jamesteitsworth.com
+date: 23 February 2019
 ...
 
-### Personal summary
+### Objective
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Education 
-
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
-
-### Technical
-
-- Intermediate: HTML, Python, etc, etc
-- Basic: CSS, Stata, etc, etc
+> A position that allows me to branch out and develop in new directions while using what I already know to deliver value.
 
 ### Employment 
 
-- 2015: Job title, Company
+- 2011-present: Database Applications Analyst, Catfish Bend Casino
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Designing systems to manage the company's complex data needs, and helping with analysis of data to identify opprotunities to improve business processes and customer relationships.
 
-- 2012: Job title, Company
+- 2009-2011: IT and Administrative Associate, Art Guild of Burlington
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Hired to learn the business so I could design a database system complete with documentation and training material from the ground up.
 
-- 2011: Job title, Company
+### Education 
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- M.S.     Information Technology from APU - TBD
+- B.S.     Information Technology (Database Emphasis) from WGU - Graduated 2012
+- A.A.S    Information Technology from SCC - Graduated 2011
+- A.A      Liberal Arts from SCC - Graduated 2006
+- Other    Ruby Nanodegree from Udacity - Graduated 2016
 
-- 2008: Job title, Company
+### Educational Distinctions
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 4.0 GPA overall in my MS program (15 credit hours completed)
+- 3.9 GPA overall for AAS degree
+- 3.5 GPA overall for AA degree
+- Phi Theta Kappa honor society at SCC
+- Dean's list consistently at SCC
+- One of the first graduates of the Ruby nanodegree
+
+### Certifications
+
+- MCITP SQL Server Developer
+- MCTS SQL Server Developer
+- CompTIA Project+
+- CompTIA A+
+- CIW Certified Web Developer
 
 \newpage
 
-### Publications
+### Technical
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
+- Use Daily: T-SQL, SSIS, VB.NET, Visual Studio, ruby, Linux, Windows Server, vim, emacs, Excel, markdown
+- Use Monthly: IIS, nginx, HTML/CSS, javascript, docker, Discoverer, mySQL
+- Use Occasionally: C#, Python, postgres, sqlite3, jQuery
+- Familiar with: C, VueJS, F#, apache, PHP, CouchDB, redis, MongoDB
 
-### Selected presentations
+### Projects
 
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-
-### Memberships and committees
-
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-
-### Awards and supporting information
-
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
+- Built a multizone digital signage system that handles network problems gracefully using raspberry pis as clients. This saved thousands of dollars in hardware upgrades and around 2 hours a week in IT and marketing workflows.
+- Designed a .NET/SQL Server solution for our B2B sister company that allows them to keep track of all aspects of the business. The data also powers a customer facing ASP.NET reporting system.
+- Member of a team that drastically altered casino rewards program by finely segmenting customers based on patterns in the data. This lead to us being one of the few casinos to turn a profit that year. I also completely automated the segmentation process in SQL Server once established.
+- Built a membership database from spreadsheets and paper files for a small non-profit. 
+- Lead a web redesign project that also implemented a CMS and a custom online class registration system written in PHP.
 
 ### References
 
 Available on request.
-
-
-
-
 

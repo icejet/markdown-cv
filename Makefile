@@ -12,9 +12,10 @@ help:
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
 	@echo '   make html                        (re)generate the web site          '
+	@echo '   make txt                         generate a plain text file'
 	@echo '   make pdf                         generate a PDF file  			  '
-	@echo '   make docx	                   generate a Docx file 			  '
-	@echo '   make tex	                   generate a tex file 			  '
+	@echo '   make docx	                    generate a Docx file 			  '
+	@echo '   make tex	                    generate a tex file 			  '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo ' 																	  '
@@ -28,6 +29,10 @@ pdf:
 	-o "$(OUTPUTDIR)/cv.pdf" \
 	--template="$(STYLEDIR)/template.tex" \
 	--pdf-engine=xelatex
+
+txt:
+	pandoc -f markdown -t plain "$(INPUTDIR)"/*.md \
+	-o "$(OUTPUTDIR)/cv.txt"
 
 tex:
 	pandoc -s \
