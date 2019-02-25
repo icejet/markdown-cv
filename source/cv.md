@@ -22,20 +22,20 @@ date: 23 February 2019
 
 ### Education 
 
-- M.S.     Information Technology from APU - TBD
-- B.S.     Information Technology (Database Emphasis) from WGU - Graduated 2012
-- A.A.S    Information Technology from SCC - Graduated 2011
-- A.A      Liberal Arts from SCC - Graduated 2006
-- Other    Ruby Nanodegree from Udacity - Graduated 2016
+- **M.S.**     Information Technology from APU - TBD
+- **B.S.**     Information Technology (Database Emphasis) from WGU - Graduated 2012
+- **A.A.S**    Information Technology from SCC - Graduated 2011
+- **A.A**      Liberal Arts from SCC - Graduated 2006
+- **Other**    Ruby Nanodegree from Udacity - Graduated 2016
 
-### Educational Distinctions
+### Academic Achievements
 
 - 4.0 GPA overall in my MS program (15 credit hours completed)
 - 3.9 GPA overall for AAS degree
 - 3.5 GPA overall for AA degree
 - Phi Theta Kappa honor society at SCC
-- Dean's list consistently at SCC
-- One of the first graduates of the Ruby nanodegree
+- Dean's list every semester at SCC
+- One of the first graduates of the Ruby nanodegree program
 
 ### Certifications
 
@@ -49,10 +49,10 @@ date: 23 February 2019
 
 ### Technical
 
-- Use Daily: T-SQL, SSIS, VB.NET, Visual Studio, ruby, Linux, Windows Server, vim, emacs, Excel, markdown
-- Use Monthly: IIS, nginx, HTML/CSS, javascript, docker, Discoverer, mySQL
-- Use Occasionally: C#, Python, postgres, sqlite3, jQuery
-- Familiar with: C, VueJS, F#, apache, PHP, CouchDB, redis, MongoDB
+- **Use Daily:** T-SQL, SSIS, VB.NET, Visual Studio, ruby, Linux, Windows Server, vim, emacs, Excel, markdown
+- **Use Monthly:** IIS, nginx, HTML/CSS, javascript, docker, Discoverer, mySQL
+- **Use Occasionally:** C#, Python, postgres, sqlite3, jQuery
+- **Familiar with:** C, node, VueJS, F#, apache, PHP, CouchDB, redis, MongoDB
 
 ### Projects
 
